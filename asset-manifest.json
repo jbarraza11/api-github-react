@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/akimad-test/static/js/main.b9ea5346.js",
+    "static/js/787.f757b678.chunk.js": "/akimad-test/static/js/787.f757b678.chunk.js",
+    "index.html": "/akimad-test/index.html",
+    "main.b9ea5346.js.map": "/akimad-test/static/js/main.b9ea5346.js.map",
+    "787.f757b678.chunk.js.map": "/akimad-test/static/js/787.f757b678.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b9ea5346.js"
+  ]
+}
