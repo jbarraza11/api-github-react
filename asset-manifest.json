@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/akimad-test/static/js/main.b9ea5346.js",
-    "static/js/787.f757b678.chunk.js": "/akimad-test/static/js/787.f757b678.chunk.js",
-    "index.html": "/akimad-test/index.html",
-    "main.b9ea5346.js.map": "/akimad-test/static/js/main.b9ea5346.js.map",
-    "787.f757b678.chunk.js.map": "/akimad-test/static/js/787.f757b678.chunk.js.map"
+    "main.js": "https://jbarraza11.github.io/api-github-react/static/js/main.462bcf0a.js",
+    "static/js/787.f757b678.chunk.js": "https://jbarraza11.github.io/api-github-react/static/js/787.f757b678.chunk.js",
+    "index.html": "https://jbarraza11.github.io/api-github-react/index.html",
+    "main.462bcf0a.js.map": "https://jbarraza11.github.io/api-github-react/static/js/main.462bcf0a.js.map",
+    "787.f757b678.chunk.js.map": "https://jbarraza11.github.io/api-github-react/static/js/787.f757b678.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.b9ea5346.js"
+    "static/js/main.462bcf0a.js"
   ]
 }
