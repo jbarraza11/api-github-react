@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "https://jbarraza11.github.io/api-github-react/static/js/main.462bcf0a.js",
-    "static/js/787.f757b678.chunk.js": "https://jbarraza11.github.io/api-github-react/static/js/787.f757b678.chunk.js",
-    "index.html": "https://jbarraza11.github.io/api-github-react/index.html",
-    "main.462bcf0a.js.map": "https://jbarraza11.github.io/api-github-react/static/js/main.462bcf0a.js.map",
-    "787.f757b678.chunk.js.map": "https://jbarraza11.github.io/api-github-react/static/js/787.f757b678.chunk.js.map"
+    "main.js": "/api-github-react/static/js/main.f18c40c3.js",
+    "static/js/787.f757b678.chunk.js": "/api-github-react/static/js/787.f757b678.chunk.js",
+    "index.html": "/api-github-react/index.html",
+    "main.f18c40c3.js.map": "/api-github-react/static/js/main.f18c40c3.js.map",
+    "787.f757b678.chunk.js.map": "/api-github-react/static/js/787.f757b678.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.462bcf0a.js"
+    "static/js/main.f18c40c3.js"
   ]
 }
