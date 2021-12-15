@@ -9,6 +9,4 @@
 ## Paso a paso 
 - `npm install` para instalar dependencias
 - `npm start` para iniciar el proyecto
-
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Buscar el archivo que esta en la ruta src/Api/graphql.js y reemplazar el token por el nuevo generado, ya que github al pushear un token generado lo borra por seguridad.
