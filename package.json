@@ -46,6 +46,5 @@
   "devDependencies": {
     "@babel/plugin-proposal-optional-chaining": "^7.16.5",
     "gh-pages": "^3.2.3"
-  },
-  "homepage": "https://jbarraza11.github.io/api-github-react"
+  }
 }
